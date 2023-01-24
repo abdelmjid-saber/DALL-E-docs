@@ -1,5 +1,5 @@
 {
-  "index": "Introduction",
+  "Introduction": "Introduction",
+  "server-requirements": "Server Requirements", 
   "quick-installation": "Quick Installation",
-  "advanced": "Advanced (A Folder)",
 }
