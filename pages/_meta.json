@@ -3,3 +3,17 @@
   "server-requirements": "Server Requirements", 
   "quick-installation": "Quick Installation",
 }
+
+{
+  "index": "Introduction",
+  "server-requirements": "Server Requirements",
+  "quick-installation": "Quick Installation",
+  "deploy-for-render&vercel": "Deploy for Render & Vercel",
+
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://wa.me/201091523908",
+    "newWindow": true
+  }
+}
