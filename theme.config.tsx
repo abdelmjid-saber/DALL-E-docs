@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: '',
   },
-  docsRepositoryBase: 'https://github.com/abdelmjid-saber/DALL-E-docs',
+  docsRepositoryBase: 'https://github.com/abdelmjid-saber/DALL-E-docs/blob/main',
   footer: {
     text: 'DALL-E Docs',
   },
