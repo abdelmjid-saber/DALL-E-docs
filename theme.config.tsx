@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>DALL-E</span>,
   project: {
-    link: '',
+    link: 'https://github.com/abdelmjid-saber/DALL-E-docs',
   },
   chat: {
     link: '',
